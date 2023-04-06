@@ -13,4 +13,10 @@
 conda create -p venv python==3.7 -y
 ```
 
-### Create 
+### Create requirements.txt file and add required libraries
+#### Then execute the below command to install the libraries:-
+
+```
+pip install -r requirements.txt
+```
+
